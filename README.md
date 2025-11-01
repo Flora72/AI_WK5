@@ -1,4 +1,3 @@
-```markdown
 # Hospital Readmission Predictor
 
 This project applies the AI Development Workflow to predict 30-day hospital readmission risk using synthetic patient data. It was developed for the **AI for Software Engineering** course and submitted as part of the **AI Development Workflow Assignment**.
@@ -39,14 +38,6 @@ Confusion Matrix:
 Precision: 0.727
 Recall: 0.800
 ```
-
-## Screenshots
-
-> Add screenshots here once available:
-- [ ] Confusion matrix
-- [ ] Workflow diagram
-- [ ] Prediction simulation
-
 ## Assignment Link
 
 You can view the full assignment brief [here](https://docs.google.com/document/d/1ySghieGyqC2mga9rVc2UhDTjTbYerDcj8WG1vvfaEP0/edit?usp=sharing).
