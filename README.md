@@ -11,10 +11,9 @@ This project applies the AI Development Workflow to predict 30-day hospital read
 ## Project Structure
 
 ```
-ai-readmission-predictor/
+WEEK5/
 ├── data/                    
-├── notebooks/              
-├── screenshots/             
+├── notebooks/                         
 ├── requirements.txt         
 ├── .gitignore                
 └── README.md                 
@@ -56,7 +55,5 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch notebook
-jupyter notebook
 ```
 
